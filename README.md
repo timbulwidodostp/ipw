@@ -1,6 +1,8 @@
 # ipw
 Estimate inverse probability weights (point treatment) Use ipwpoint (ipw) With (In) R Software
 
+https://www.youtube.com/watch?v=vbIcLtAqcrg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
